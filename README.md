@@ -1,8 +1,10 @@
->> create multiple IAM users
+This repo will include terraform files that provision the following: 
 
->> set up github access to private repos 
+>> creates multiple IAM users
 
->> add users to github organization 
+>> sets up github access to private repos 
 
->> provision development ec2 instances for users 
+>> adds users to github organization 
+
+>> provisions development ec2 instances for these users 
 
